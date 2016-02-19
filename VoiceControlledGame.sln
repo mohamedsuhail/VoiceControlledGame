@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceControlledGame.CSharp.Plugins", "VoiceControlledGame.CSharp.Plugins.csproj", "{715D2C92-88A5-37F0-5ADC-E485342B0DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceControlledGame.CSharp", "VoiceControlledGame.CSharp.csproj", "{1B249628-7C3E-1469-A0A1-9FA7D5D24EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceControlledGame.CSharp.Editor", "VoiceControlledGame.CSharp.Editor.csproj", "{B82AC626-D679-B869-00A6-545F0975CF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715D2C92-88A5-37F0-5ADC-E485342B0DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715D2C92-88A5-37F0-5ADC-E485342B0DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715D2C92-88A5-37F0-5ADC-E485342B0DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715D2C92-88A5-37F0-5ADC-E485342B0DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B249628-7C3E-1469-A0A1-9FA7D5D24EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B249628-7C3E-1469-A0A1-9FA7D5D24EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B249628-7C3E-1469-A0A1-9FA7D5D24EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B249628-7C3E-1469-A0A1-9FA7D5D24EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82AC626-D679-B869-00A6-545F0975CF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82AC626-D679-B869-00A6-545F0975CF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82AC626-D679-B869-00A6-545F0975CF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82AC626-D679-B869-00A6-545F0975CF55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
